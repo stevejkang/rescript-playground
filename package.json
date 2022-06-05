@@ -1,0 +1,17 @@
+{
+  "name": "rescript-playground",
+  "version": "0.0.1",
+  "scripts": {
+    "re:build": "rescript",
+    "re:claanm": "rescript clean -with-deps",
+    "re:start": "rescript build -w"
+  },
+  "keywords": [
+    "rescript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "rescript": "9.1.4"
+  }
+}
